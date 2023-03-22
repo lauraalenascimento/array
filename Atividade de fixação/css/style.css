@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FFEAEA;
+}
+
+main{
+    padding: 10px;
+    
+}
+
+.pesquisa{
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+}
+
+.btn-adi{
+    padding: 10px;
+    background:#F5C6EC ; 
+     border: none;
+    border-radius: 4px;
+}
+
+.btn-ord{
+    padding: 10px;
+    background:#F5C6EC ; 
+     border: none;
+    border-radius: 4px;
+}
+
